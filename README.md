@@ -4,7 +4,8 @@
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/alDuncanson/Github-Dark)
 ![GitHub Repo stars](https://img.shields.io/github/stars/alDuncanson/Github-Dark)
-![GitHub](https://img.shields.io/github/license/alDuncanson/GitHub-Dark)
+![License](https://img.shields.io/github/license/alDuncanson/GitHub-Dark)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 ## Screenshots
 
@@ -18,15 +19,19 @@
 
 ##### Automatic
 
-1. Right-click and save the file [`GitHub Dark.itermcolors`](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/GitHub%20Dark.itermcolors)
-2. Click the downloaded file, and you should see a message similar to `The color scheme was imported and added to presets.`
+1. Right-click and save the file
+   [`GitHub Dark.itermcolors`](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/GitHub%20Dark.itermcolors)
+2. Click the downloaded file, and you should see a message similar to
+   `The color scheme was imported and added to presets.`
 
 ##### Manual
 
-1. Right-click and save the file [`GitHub Dark.itermcolors`](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/GitHub%20Dark.itermcolors)
+1. Right-click and save the file
+   [`GitHub Dark.itermcolors`](https://raw.githubusercontent.com/alDuncanson/Github-Dark/main/GitHub%20Dark.itermcolors)
 2. Open [iTerm2](https://iterm2.com/) and open `Preferences`
 3. Click the `Profiles` tab, then the `Colors` tab
-4. Select the `Color Presets...` dropdown and click `import...`, then select the `GitHub Dark.itermcolors` file
+4. Select the `Color Presets...` dropdown and click `import...`, then select the
+   `GitHub Dark.itermcolors` file
 
 ### Use
 
@@ -37,7 +42,8 @@
 ## Other Info
 
 - Shell: [Zsh](https://www.zsh.org/)
-- Zsh Theme: [awesomepanda](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/awesomepanda.zsh-theme)
+- Zsh Theme:
+  [awesomepanda](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/awesomepanda.zsh-theme)
 - Font: [MonoLisa](https://www.monolisa.dev/)
 
 ---
