@@ -2,7 +2,7 @@
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/alDuncanson/Github-Dark)
 ![License](https://img.shields.io/github/license/alDuncanson/GitHub-Dark)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)\
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/)\
 ![GitHub Repo stars](https://img.shields.io/github/stars/alDuncanson/Github-Dark)
 
 > a color scheme for [iTerm2](https://iterm2.com/), based on GitHub's dark theme
